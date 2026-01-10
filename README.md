@@ -1,4 +1,4 @@
-# Vietnamese-English Neural Machine Translation: Encoder-Decoder vs Decoder-Only Architectures
+# Fine-tuning English - Vietnamese Machine Translation
 
 ## 📋 Overview
 
